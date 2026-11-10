@@ -56,6 +56,7 @@ study_assistant/
 ```
 
 whisper-cublas-12.4.0-bin-x64/ : https://github.com/ggml-org/whisper.cpp/releases
+
 ggml-large-v3-turbo-q5_0.bin : https://huggingface.co/ggerganov/whisper.cpp/tree/main
 
 `whisper-server.exe`만 복사하지 말고 같은 실행 패키지의 DLL도 함께 준비하세요. 앱이 로컬 서버를 시작하며 주소는 `127.0.0.1:8080`입니다. 해당 포트를 다른 프로그램이 사용 중이면 실행할 수 없습니다.
