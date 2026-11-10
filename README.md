@@ -55,7 +55,7 @@ study_assistant/
       └─ ggml-large-v3-turbo-q5_0.bin
 ```
 
-whisper-cublas-12.4.0-bin-x64/ : https://github.com/ggml-org/whisper.cpp/releases
+whisper.cpp , whisper-cublas-12.4.0-bin-x64/ : https://github.com/ggml-org/whisper.cpp/releases
 
 ggml-large-v3-turbo-q5_0.bin : https://huggingface.co/ggerganov/whisper.cpp/tree/main
 
